@@ -1,0 +1,13 @@
+crea un repositorio
+>> git init 
+comando para agregar un archivo a un repositorio (deben estar agregados para hacer un commit)
+>> git add <nombre de archivo>
+agregar todo
+>> git add .
+comando para quitar un archivo del repositorio
+>> git rm --cached <archivo>
+comando para crear una rama 
+>> git checkout -b DevDaniel
+cambiar de rama
+>> git checkout <nombreRama>
+
